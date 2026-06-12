@@ -30,7 +30,4 @@ java Main
 * Difficulty levels
 * Timed challenges
 * High scores
-
----
-
-# Updates Every Sunday.
+* Updates Will Be Available Every Sunday  
