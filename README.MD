@@ -31,4 +31,6 @@ java Main
 * Timed challenges
 * High scores
 
-## Updates Every Sunday.
+---
+
+# Updates Every Sunday.
