@@ -81,6 +81,7 @@ java Main
 
 ## Example
 
+<<<<<<< HEAD
 ```text
 --- Main Menu ---
 
@@ -133,3 +134,10 @@ What do you want to practice today?
 ## License
 
 This project is open source and free to modify for learning purposes.
+=======
+* Division mode
+* Difficulty levels
+* Timed challenges
+* High scores
+* Updates Will Be Available Every Sunday  
+>>>>>>> 7016e115f9826dfa0b591864e65d5b302d64c8b9
